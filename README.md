@@ -1,8 +1,5 @@
 
 
-<!-- HTML Code -->
-<marquee class="GeneratedMarquee" direction="left" scrollamount="16" behavior="scroll">welcome in my home</marquee>
-
 
 
  <div id="header" align="center">
