@@ -6,7 +6,7 @@
 
  <div id="header" align="center">
   </div>
-  https://github-readme-streak-stats.herokuapp.com?user=antonobekasi&hide_border=true&border_radius=6.5&locale=id)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonobekasi&hide_border=true&border_radius=6.5&locale=id" alt="GitHub Streak" /></a>
   </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
