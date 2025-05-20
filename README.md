@@ -1,17 +1,4 @@
-<!-- Codes by HTML.am -->
 
-<!-- CSS Code -->
-<style>
-.GeneratedMarquee {
-font-family:Helvetica, sans-serif;
-font-size:2em;
-line-height:1.3em;
-color:FFFF66;
-background-color:#FFFFff;
-padding:1.5cm;
-
-}
-</style>
 
 <!-- HTML Code -->
 <marquee class="GeneratedMarquee" direction="left" scrollamount="16" behavior="scroll">welcome in my home</marquee>
