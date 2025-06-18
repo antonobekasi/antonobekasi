@@ -6,9 +6,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB3enk4Y29zdjYyeHkybzRuZmZpaG92bm03azl0Y3RpMzExZTludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="200"/>
 </div>
  
- <div id="header" align="center">
- <a href="https://git.io/streak-stats"><img src="[https://github-readme-streak-stats.herokuapp.com?user=antonobekasi&hide_border=true&border_radius=6.5&locale=id](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Antonobekasi&theme=tokyonight&chart=bars)" alt="GitHub Streak" /></a>
-  </div>
+
  <div id="header" align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonobekasi&hide_border=true&border_radius=6.5&locale=id" alt="GitHub Streak" /></a>
   </div>
